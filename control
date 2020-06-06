@@ -1,0 +1,9 @@
+Package: com.joemerlino.tgla7playback
+Name: TGLa7Playback
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Allows playback in background
+Maintainer: Joe Merlino
+Author: Joe Merlino
+Section: Tweaks
